@@ -1,16 +1,16 @@
 {
   "name": "KheyaJQSlider",
-  "version": "0.0.1"
+  "version":"0.0.1",
   "homepage": "https://github.com/KBasher/KheyaJQSlider",
   "authors": [
     "KBasher <khademulbasher@gmail.com>"
   ],
-  "description": "JQuery Slider",
+  "description": "Kheya JQuery Slider",
   "main": "js/jquery.kheya.slider.min.js",
   "keywords": [
     "Slider",
-    "Kheya",
-    "JQuery"
+    "JQuery",
+    "Kheya"
   ],
   "license": "MIT",
   "ignore": [
@@ -21,6 +21,7 @@
     "tests"
   ],
   "dependencies": {
+    "font-awesome": "fontawesome#^4.5.0",
     "jquery": "^2.2.3"
   }
 }

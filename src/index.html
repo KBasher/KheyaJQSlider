@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<html lang="en">
+<head>
+    <title>Kheya Slider Demo</title>
+    
+    <link rel="stylesheet" href="../css/kheyaslider.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="../bower_components/font-awesome/css/font-awesome.css" type="text/css" media="screen" />
+
+    <script type="text/javascript" src="../bower_components/jquery/dist/jquery.min.js"></script>
+    <script type="text/javascript" src="../js/jquery.kheya.slider.min.js"></script>
+    
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.kheya-slider').KheyaJQSlider({
+                SlideDuration: 3000,
+                MaxWidth:"1200px",
+                MaxHeight:"600px"
+            });
+        });
+    </script>
+</head>
+<body>
+    <div style="max-width: 1200px; margin: 0px auto;">
+        <div class="kheya-slider">
+            <div class="slider-container">
+                <div class="slider-piece">
+                    <img src="images/1.jpg" alt="Image" />
+                </div>
+                <div class="slider-piece">
+                    <img src="images/2.jpg" alt="Image"/>
+                </div>
+                <div class="slider-piece">
+                    <img src="images/3.jpg" alt="Image"/>
+                </div>
+                <div class="slider-piece">
+                    <img src="images/4.jpg" alt="Image" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div style="height: 200px; background-color: gray;"></div>
+    </div>
+    
+</body>
+</html>
