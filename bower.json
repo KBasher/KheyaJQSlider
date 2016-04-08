@@ -1,0 +1,26 @@
+{
+  "name": "KheyaJQSlider",
+  "version": "0.0.1"
+  "homepage": "https://github.com/KBasher/KheyaJQSlider",
+  "authors": [
+    "KBasher <khademulbasher@gmail.com>"
+  ],
+  "description": "JQuery Slider",
+  "main": "js/jquery.kheya.slider.min.js",
+  "keywords": [
+    "Slider",
+    "Kheya",
+    "JQuery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
