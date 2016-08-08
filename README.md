@@ -3,7 +3,7 @@ JavaScript Slider
 
 Description
 -----------
-This is a open source JavaScript slider. It uses jQuery as a dependency.
+This is an open source JavaScript slider. It uses jQuery as a dependency.
 
 The features are <br/>
 1. Platform oriented <br/>
