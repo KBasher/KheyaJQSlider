@@ -3,12 +3,12 @@ JavaScript Slider
 
 Description
 -----------
-This is a open source JavaScript slider. It uses jQury as a dependencies.
+This is a open source JavaScript slider. It uses jQuery as a dependency.
 
 The features are <br/>
 1. Platform oriented <br/>
 2. Responsive <br/>
-3. Any number of image may used <br/>
+3. Any number of image can be displayed <br/>
 
 Installation
 -----------
@@ -20,7 +20,7 @@ Installation
   <script type="text/javascript" src="scripts/jquery-1.9.1.min.js"></script>
   <script type="text/javascript" src="scripts/jquery.kheya.slider.js"></script>
   ```
-2. Call the slider form page header. The JavaScript code is as follows. <br/>
+2. Call the slider from page header. The JavaScript code is as follows. <br/>
   ```javascript
     <script type="text/javascript">
       
