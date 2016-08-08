@@ -57,6 +57,6 @@ Installation
 The Slider output is as follows.
 -----------
 <p align="center">
-  <img src="https://s31.postimg.org/gi570i9p7/iis.jpg" width="600"/>
+  <img src="https://s10.postimg.org/m88iljjbt/slider.jpg" width="700"/>
 </p>
 
