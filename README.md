@@ -56,7 +56,7 @@ Installation
   ```
 The Slider output is as follows.
 -----------
-<p align="center">
+<p align="left">
   <img src="https://s10.postimg.org/m88iljjbt/slider.jpg" width="700"/>
 </p>
 
